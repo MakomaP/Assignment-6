@@ -1,0 +1,30 @@
+.container{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    width: 600px;
+    height: 200px;
+    border: 15px solid rgb(199, 46, 130);
+    border-style: ridge;
+    border-bottom-left-radius: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    text-indent: 50px;
+    text-decoration: none;
+    letter-spacing: 2px;
+    box-shadow: 10px 10px rgb(85, 90, 87);
+    cursor: pointer;
+}
+
+.p{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40pts;
+    color: #4CAF50;    
+    text-shadow: 2px 2px 5px red;
+    font-style: italic;
+    padding: 5px 5px 5px;
+
+ 
+}
